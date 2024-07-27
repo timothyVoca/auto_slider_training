@@ -25,7 +25,7 @@
 - [x] Setup **Git** and **GitHub**
 - [x] Set up `readme.md`, `.gitignore`
 - [x] Work on Objective
-- [ ] Publish results
+- [x] Publish results
 - [ ] Review with client
 
 ---
@@ -38,14 +38,14 @@
 ## Learn and practice
 
 I am lacking in basic CSS animation knowledge. Learn about
-- [ ] Envato tuts CSS training
-- [ ] `width` vs `min-width`
-- [ ] `calc()`
-- [ ] `var()`
-- [ ] `animation-play-state`
-- [ ] `!important`
+- [x] Envato tuts CSS training
+- [x] `width` vs `min-width`
+- [x] `calc()`
+- [x] `var()`
+- [x] `animation-play-state`
+- [x] `!important`
 - [ ] `<main>`
-- [ ] `filter`
+- [x] `filter`
 - [ ] `gradient`
 - [ ] `grayscale`
 - [ ] HTML attribute `reverse`
